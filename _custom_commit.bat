@@ -46,7 +46,7 @@ CALL :NEW_LINE_ECHO
 
 REM ////////////////////////////////////////////////////////////
 SET commit_message= :hammer: Update %current_dir_name% - %current_date_time%
-REM SET /P commit_message=Enter your commit message:
+SET /P commit_message=Enter your commit message:
 echo  [104mCommit message set to: "%commit_message%"[0m
 CALL :NEW_LINE_ECHO
 
@@ -106,7 +106,7 @@ CALL :BOLD_ECHO_AND_RUN "    git push origin HEAD:master"
 
 REM Wait until key is pressed is the file was double clicked
 REM ////////////////////////////////////////////////////////////
-REM CALL :PAUSE_SCRIPT_IF_DOUBLE_CLICKED
+CALL :PAUSE_SCRIPT_IF_DOUBLE_CLICKED
 
 REM ////////////////////////////////////////////////////////////
 
