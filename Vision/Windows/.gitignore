@@ -1,0 +1,39 @@
+# Qt-es
+
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*-build-*
+Application/Project/build-Iris-*/**
+Application/Project/build-*/**
+
+# QtCreator
+
+*.autosave
+
+#QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+# WordPress
+Website/wp-content/uploads
+
+Application/Bin/*.zip
+Application/Bin/*.exe
+Application/Bin/*
+Application/Temp/*
+
+Website/*
+!Website/wp-content/
+!Website/custom-code
+!Website/user-manual
+
+Application/Windows10/Iris.appx
