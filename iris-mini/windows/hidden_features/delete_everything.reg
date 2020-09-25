@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ICM]
+"GdiIcmGammaRange"=-
+
+[-HKEY_CURRENT_USER\Software\IrisTech\IrisMini]
+
+
+[-HKEY_CURRENT_USER\Software\IrisTech\Iris]
+
+[-HKEY_CURRENT_USER\Software\IrisTech\Vision]
+
+[-HKEY_CURRENT_USER\Software\IrisTech\Brailo]
+
+[-HKEY_CLASSES_ROOT\Iris]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce]
+"IRIS_RESTART_NEEDED"=-
