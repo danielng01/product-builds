@@ -5,6 +5,12 @@ FOR /F "tokens=3" %%x IN ('REG QUERY HKCU\Software\ITAUL\Iris /v activation_code
 
 if [%QUERY_RESULT%]==[] set QUERY_RESULT=NOT_SET
 
-ECHO Iris activation code is: %QUERY_RESULT%
-Msg * "Iris activation code is: %QUERY_RESULT%"
+ECHO Iris activation code before v1.2.0 is: %QUERY_RESULT%
+Msg * "Iris activation code before v1.2.0 is: %QUERY_RESULT%"
+
+for /f "tokens=*" %%f in ('find "ActivationCode=" %LOCALAPPDATA%\Iris\iris_settings.ini') do set ACTIVATION_CODE=%%f
+
+echo Iris after 1.2.0 - %ACTIVATION_CODE%
+Msg * "Iris after 1.2.0 - %ACTIVATION_CODE%"
+
 PAUSE
