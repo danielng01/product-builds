@@ -6,12 +6,12 @@ Jan 12 2023
 🥰Celebrate Chinese New Year 2023, i wish you all a happy new year.
 New: Added feature of blur background windows(View the tutorial )
 Fix: Solve the issue that screenshots may turn yellow
-# version 2.2.3.0
+# version 2.2.3.0 ✅
 Aug 31 2022
 
 New: Add the feature of customizing the background music of break
 New: Add the feature of customizing the end music of break
-# version 2.2.2.1
+# version 2.2.2.1 ✅
 Jul 18 2022
 
 Fix: Solve the issue that the color temperature adjustment does not work in some scenes
@@ -236,7 +236,7 @@ Optimize the performance of full screen detection.
 Dec 22 2018
 
 Lock screen wallpaper supports custom folders.
-# version 1.1.18.0
+# version 1.1.18.0 ✅
 Dec 6 2018
 
 Fixed an issue that automatically triggered the focus window feature.
