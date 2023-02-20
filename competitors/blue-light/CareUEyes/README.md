@@ -1,6 +1,6 @@
 What's new: CareUEyes changes and bug fixes
 
-# version 2.2.4.0
+# version 2.2.4.0 ✅
 Jan 12 2023
 
 🥰Celebrate Chinese New Year 2023, i wish you all a happy new year.
@@ -258,16 +258,16 @@ Oct 10 2018
 
 Adjusted the step of the color temperature hotkeys to 55k.
 Optimize CPU performance and reduce memory usage.
-# version 1.1.13.0
+# version 1.1.13.0 ✅
 Sep 16 2018
 
 Resolve an bug that the ESC key may not be able to exit the focus window.
-# version 1.1.1.11-1.1.1.12
+# version 1.1.1.11-1.1.1.12 ✅
 Aug 21 2018
 
 Add window focus feature, increases concentration and facilitates reading of texts, tables and spreadsheets on the computer screen.
 Optimize CPU performance and reduce memory usage.
-# version 1.1.1.10
+# version 1.1.1.10 ✅
 July 11 2018
 
 Supports adjustment to 1000K.
