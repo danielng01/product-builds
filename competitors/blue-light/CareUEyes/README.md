@@ -285,7 +285,7 @@ Adjust the maximum break interval to 2 hours.
 Optimize the color temperature adjustment of the DisplayLink adapter.
 Add adjust window background color feature.
 Release registration features
-# version 1.1.1.6
+# version 1.1.1.6 ✅
 May 1 2018
 
 Fix color temperature adjustment issue.
@@ -335,7 +335,7 @@ Feedback dialog box supports CTRL +a shortcut keys and Enter key (Thanks Mr. Sau
 Nov 3 2017
 
 Reset the color temprature while monitor turn on.
-# version 1.1.0.8
+# version 1.1.0.8 ✅
 Sep 27 2017
 
 Use the lower level API to change the color temperature to ensure the color of the screenshot is normal.
