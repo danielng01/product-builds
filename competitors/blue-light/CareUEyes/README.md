@@ -192,7 +192,7 @@ Multi-language support (more language support will be provided in the future)
 Improve user experience of hotkeys.
 Improve the user experience of locking screen windows.
 More powerful custom rules can make the program run in the specified eye protection mode, such as Photoshop in pause mode, Notepad in edit mode, etc..
-# version 1.1.24.3
+# version 1.1.24.3 ✅
 Jan 4 2020
 
 Optimize night mode logic.
