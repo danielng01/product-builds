@@ -197,42 +197,42 @@ Jan 4 2020
 
 Optimize night mode logic.
 Optimize CPU performance and reduce memory usage.
-# version 1.1.24.1
+# version 1.1.24.1 ✅
 Jun 20 2019
 
 Optimize the UI.
 Optimize the activation logic.
 Optimize CPU performance and reduce memory usage.
-# version 1.1.24.0
+# version 1.1.24.0 ✅
 May 14 2019
 
 Optimize CPU performance and reduce memory usage.
-# version 1.1.23.0
+# version 1.1.23.0 ✅
 April 20 2019
 
 Fix timer pause and resume issues.
 Fix sunrise sunset UI issues.
-# version 1.1.22.1
+# version 1.1.22.1 ✅
 Mar 31 2019
 
 Optimize the performance of full screen detection.
-# version 1.1.22.0
+# version 1.1.22.0 ✅
 Mar 28 2019
 
 Add sunrise/sunset features ( help ).
 Add custom mode button.
-# version 1.1.21.0
+# version 1.1.21.0 ✅
 Mar 22 2019
 
 Hotkey support F1-F12.
 Optimize the performance of full screen detection.
 Fixed an issue that could not be used after installing CareUEyes in a low-privilege account
-# version 1.1.20.0
+# version 1.1.20.0 ✅
 Feb 4 2019
 
 Add brightness adjustment menu in tray.
 Optimize the performance of full screen detection.
-# version 1.1.19.0
+# version 1.1.19.0 ✅
 Dec 22 2018
 
 Lock screen wallpaper supports custom folders.
@@ -240,20 +240,20 @@ Lock screen wallpaper supports custom folders.
 Dec 6 2018
 
 Fixed an issue that automatically triggered the focus window feature.
-# version 1.1.17.0
+# version 1.1.17.0 ✅
 Dec 3 2018
 
 Optimize the performance of full screen detection.
 The lock screen UI supports ESC hotkeys to exit.
 Add reading mode hotkeys.
 Add editing mode hotkeys.
-# version 1.1.16.0
+# version 1.1.16.0 ✅
 Nov 16 2018
 
 Exit the break reminder screen when the computer is unlocked or start from sleep mode .
 Disable color temperature for full screen software.
 Fix bugs that use the high-level color API to cause the screen to be warmer.
-# version 1.1.14.0
+# version 1.1.14.0 ✅
 Oct 10 2018
 
 Adjusted the step of the color temperature hotkeys to 55k.
@@ -271,12 +271,12 @@ Optimize CPU performance and reduce memory usage.
 July 11 2018
 
 Supports adjustment to 1000K.
-# version 1.1.1.9
+# version 1.1.1.9 ✅
 June 21 2018
 
 Stop alert sound automatically after 2 minutes.
 Recover window background color when uninstalling.
-# version 1.1.1.8
+# version 1.1.1.8 ✅
 June 18 2018
 
 Fix update feature issue
@@ -290,7 +290,7 @@ May 1 2018
 
 Fix color temperature adjustment issue.
 Optimize memory usage.
-# version 1.1.1.5
+# version 1.1.1.5 ✅
 Mar 8 2018
 
 Fix color temperature adjustment issue of DisplayLink USB monitor.
