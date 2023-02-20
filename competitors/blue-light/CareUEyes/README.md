@@ -159,6 +159,7 @@ Solved an issue that the color temperature cannot be restored to normal after un
 Forced mode does not allow the timer to be paused
 Solved an issue that the monitor will return to the original color temperature when waking up from the power-saving mode
 # version 2.0.0.3 ✅
+## Latest Unsigned version
 Aug 28 2020
 
 Add German support
