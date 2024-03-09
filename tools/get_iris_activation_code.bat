@@ -8,7 +8,7 @@ if [%QUERY_RESULT%]==[] set QUERY_RESULT=NOT_SET
 ECHO Iris activation code before v1.2.0 is: %QUERY_RESULT%
 Msg * "Iris activation code before v1.2.0 is: %QUERY_RESULT%"
 
-for /f "tokens=*" %%f in ('find "ActivationCode=" "C:\Users\danielng01\Desktop\test me\iris_settings.ini"') do set ACTIVATION_CODE=%%f
+for /f "tokens=*" %%f in ('find "ActivationCode=" "%LOCALAPPDATA%\Iris\iris_settings.ini"') do set ACTIVATION_CODE=%%f
 
 echo Iris after 1.2.0 - %ACTIVATION_CODE%
 Msg * "Iris after 1.2.0 - %ACTIVATION_CODE%"
